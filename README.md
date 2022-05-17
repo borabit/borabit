@@ -6,13 +6,13 @@
 ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 Hello I'm Bora
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I am currently learning C and C++
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me anything related to Python, C, C++ and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -20,8 +20,9 @@
 
 <br/>  
 
+## My Skill Set  
 
-### Beceri Setim
+<table><tr><td valign="top" width="50%">
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" />  
@@ -32,8 +33,18 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
 </div>
+</td><td valign="top" width="50%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
 
 <br/>  
+
 
 ## Connect with me  
 <div align="center">
